@@ -1,0 +1,2 @@
+Search Engines
+A search engine builds an inverted index of documents and ranks results by relevance. Information retrieval covers indexing, query processing and evaluation.

@@ -1,0 +1,2 @@
+Computer Science Algorithms
+Computer science studies algorithms, data structures and computation. Sorting and searching algorithms are core topics in computer science courses.
